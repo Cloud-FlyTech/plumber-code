@@ -1,0 +1,12 @@
+{
+  "id": "python_003",
+  "question": "What is the output?\n\n```python\nx = 10\nif x > 5:\n    print(\"Big\")\nelse:\n    print(\"Small\")\n```",
+  "options": [
+    "Big",
+    "Small",
+    "Error",
+    "Nothing"
+  ],
+  "answer": "Big",
+  "explanation": "x > 5 \u306a\u306e\u3067 'Big' \u304c\u51fa\u529b\u3055\u308c\u307e\u3059\u3002"
+}
