@@ -1,0 +1,7 @@
+{
+  "id": "python_002",
+  "question": "What does this code print?\n\n```python\nprint(\"Hello\" + \"World\")\n```",
+  "options": ["HelloWorld", "Hello World", "Hello+World", "Error"],
+  "answer": "HelloWorld",
+  "explanation": "文字列同士は + で結合されるので HelloWorld になります。"
+}
