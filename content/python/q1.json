@@ -1,0 +1,7 @@
+{
+  "id": "python_001",
+  "question": "What is the output of the following code?\n\n```python\nx = 5\ny = 3\nprint(x + y)\n```",
+  "options": ["2", "8", "53", "Error"],
+  "answer": "8",
+  "explanation": "x + y = 5 + 3 = 8"
+}
